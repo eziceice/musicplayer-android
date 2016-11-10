@@ -1,2 +1,3 @@
-CHANGED,/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ryan/finalassignment/SongsManager$override.class
+CHANGED,/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ryan/musicplayerproject/Model/Music$1$override.class
+CHANGED,/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ryan/musicplayerproject/Model/Music$override.class
+CHANGED,/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

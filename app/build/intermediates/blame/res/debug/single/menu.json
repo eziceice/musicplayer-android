@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/menu/action_bar.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/menu/action_bar.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/menu/activity_main_drawer.xml"
     }
 ]

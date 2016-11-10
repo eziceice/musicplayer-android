@@ -1,138 +1,518 @@
 [
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_stop_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_stop_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/seekbar_progress_bg.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/seekbar_progress_bg.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_search_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_search_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_stop_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_stop_black_24dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_previous_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_previous_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_shuffle_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_shuffle_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/file.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/file.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_border_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_border_black_24dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sd_card_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sd_card_black_18dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_queue_music_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_queue_music_black_24dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_border_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_border_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/progress_bar_blue.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/progress_bar_blue.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_queue_music_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_queue_music_black_18dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_shuffle_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_shuffle_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/folder.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/folder.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_filled_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_filled_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/progress_bar.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/progress_bar.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_list_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_list_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_next_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_next_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/list_selector.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_outline_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_outline_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/seek_handler.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/seek_handler.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_cloud_download_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_cloud_download_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/btn_play.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/btn_play.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_filled_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_filled_black_18dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_headset_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_headset_black_24dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_outline_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_outline_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_outline_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_outline_black_18dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/seekbar_progress.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/seekbar_progress.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sd_card_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sd_card_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/icon.png",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/src/main/res/drawable/icon.png"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_one_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_one_black_24dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_add_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_add_black_48dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_one_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_one_black_36dp.png"
     },
     {
-        "merged": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_search_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_search_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_add_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_add_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_send.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_outline_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_outline_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_next_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_next_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_shuffle_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_shuffle_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_filled_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_previous_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_previous_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/seek_handler.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/seek_handler.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/seekbar_progress_bg.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_add_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_add_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_list_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_list_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_delete_sweep_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_delete_sweep_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_list_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_list_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_one_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_one_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_delete_sweep_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_delete_sweep_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_stop_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_stop_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_cloud_download_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_cloud_download_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_previous_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_previous_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_filled_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_filled_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sort_by_alpha_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sort_by_alpha_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_delete_sweep_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_delete_sweep_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/progress_bar_blue.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/progress_bar_blue.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_share.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_headset_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_headset_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_outline_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_manage.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_add_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_one_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_one_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sort_by_alpha_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sort_by_alpha_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_slideshow.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_gallery.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_list_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_list_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_outline_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_outline_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_next_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_next_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_cloud_download_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_cloud_download_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_queue_music_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_queue_music_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sd_card_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sd_card_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_folder_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_folder_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_cloud_download_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_cloud_download_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_folder_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_folder_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_filled_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_filled_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sort_by_alpha_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sort_by_alpha_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_delete_sweep_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_delete_sweep_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sd_card_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sd_card_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_next_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_shuffle_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_shuffle_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_headset_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_headset_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_search_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_search_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_search_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/progress_bar.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/progress_bar.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_border_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_border_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_filled_black_48dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_filled_black_48dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_folder_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_folder_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_pause_circle_outline_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_pause_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/seekbar_progress.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_outline_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_outline_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_skip_previous_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_skip_previous_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_repeat_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_repeat_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_filled_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_filled_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_headset_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_headset_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_play_circle_filled_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_play_circle_filled_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_file.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_file.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_queue_music_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_queue_music_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_sort_by_alpha_black_24dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_sort_by_alpha_black_24dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_stop_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_stop_black_18dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_favorite_border_black_36dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_favorite_border_black_36dp.png"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/intermediates/res/merged/debug/drawable/ic_folder_black_18dp.png",
+        "source": "/Users/EleMeNt/Desktop/MusicPlayerProject/app/src/main/res/drawable/ic_folder_black_18dp.png"
     }
 ]

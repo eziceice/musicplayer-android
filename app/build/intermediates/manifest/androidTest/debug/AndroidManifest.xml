@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ryan.finalassignment.test">
+    package="ryan.musicplayerproject.test">
 
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="ryan.finalassignment"
+                     android:targetPackage="ryan.musicplayerproject"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for ryan.finalassignment"/>
+                     android:label="Tests for ryan.musicplayerproject"/>
 </manifest>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Music From Sdcard:"
+        android:id="@+id/SdCardText"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_dark" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/loadFromSDcard"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@null"
+        android:src="@drawable/ic_sd_card_black_48dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Music From Cloud:"
+        android:id="@+id/CloudText"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/background_dark" />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/loadFromCloud"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@null"
+        android:src="@drawable/ic_cloud_download_black_48dp"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

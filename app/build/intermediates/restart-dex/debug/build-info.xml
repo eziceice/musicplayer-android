@@ -4,34 +4,29 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="1462437200236394000" >
+    timestamp="1463050620396275000" >
 
     <task
         name="javac"
-        duration="162" />
+        duration="299" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="15" />
+        duration="19" />
     <task
         name="verifier"
-        duration="2" />
+        duration="13" />
 
     <artifact
-        location="/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="1462436902680149000" >
+    <build timestamp="1463050620396275000" >
         <artifact
-            location="/Users/EleMeNt/Desktop/FinalAssignment/app/build/outputs/apk/app-debug.apk"
+            location="/Users/EleMeNt/Desktop/MusicPlayerProject/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="1462437200236394000" >
-        <artifact
-            location="/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
