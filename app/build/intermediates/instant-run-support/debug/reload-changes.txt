@@ -1,0 +1,2 @@
+CHANGED,/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/EleMeNt/Desktop/FinalAssignment/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/ryan/finalassignment/SongsManager$override.class
