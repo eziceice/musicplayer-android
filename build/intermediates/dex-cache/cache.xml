@@ -1,2 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e04309320f5f73fe79d39248c1073b990468cb1a">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_90c182d5e4b1d1475d42c5f255423c7b825c8d92/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c019d3682e62a1d33ffb94ac1d8fbfe77bfb79a0">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_89ad5ea9fffa385e03193f646117d798193d6fd3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_5ce7edc2edf3d003a99e404807dcb53c33434e79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_f07d9ee0abf4f20250ef7082f4987e4b86ea4edd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_cfae58d120525e91527f9a2390a19eee30148e68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ea4d97c57de7f612ce00ff97f596cef8ecb60358/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d34239250a8d50eadacdac550a7d5e9bc7014808/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_68afd543fa3e983e487e9ce8968f896058f7938a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_3cb1ec64a42c102940a59161c41d5382baa698fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_4fa119bb8e5c336dc7f55bcee38c03af56622835/classes.dex" />
+    </item>
+    <item
+        jar="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/EleMeNt/Documents/FIT4039/MusicPlayerProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_389c11528749e4b14914e336518249aaa4617f0e/classes.dex" />
+    </item>
+
+</items>

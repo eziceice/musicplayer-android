@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="ryan.musicplayerproject.FavouriteSongFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:padding="5dp"
+        android:background="@color/colorPrimaryDark">
+
+        <EditText
+            android:id="@+id/search"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:hint=""
+            android:inputType="text"
+            android:maxLength="40"
+            android:background="@drawable/bg_shape"
+            >
+        </EditText>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:id="@+id/search_icon"
+            android:src="@drawable/ic_search_black_24dp"
+            android:layout_weight="0.21"
+            />
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/favList"
+        android:layout_gravity="center_horizontal"
+        android:listSelector="@drawable/list_selector"
+        android:background="@color/colorPrimary"
+        android:dividerHeight="1px"/>
+
+</LinearLayout>
