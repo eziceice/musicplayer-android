@@ -1,11 +1,10 @@
 package ryan.musicplayerproject;
 
 import android.Manifest;
-import android.app.Fragment;
+import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -21,14 +20,19 @@ import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.EasyPermissions;
 
 import ryan.musicplayerproject.Fragment.FavouriteSongFragment;
-import ryan.musicplayerproject.Fragment.LoadSongFragment;
 import ryan.musicplayerproject.Fragment.PlayFragment;
 import ryan.musicplayerproject.Fragment.SongListFragment;
+import ryan.musicplayerproject.Notification.NotificationService;
 
-// All the Icon Download From Google Material Design
-
+/**
+ * All the Icon Download From Google Material Design
+ * @link https://design.google.com/icons/
+ */
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,EasyPermissions.PermissionCallbacks {
+
+    // Application to pass information
+    private MusicApplication application;
 
     // Define Read Storage permission flag
     private static final int REQ_READ_STORAGE_PERMISSION = 200;
@@ -36,28 +40,21 @@ public class MainActivity extends AppCompatActivity
     // Fragment Manager
     private android.app.FragmentManager fragmentManager = getFragmentManager();
 
-    // Fragment
-    private PlayFragment playFragment;
-    private LoadSongFragment loadSongFragment;
-    private FavouriteSongFragment favouriteSongFragment;
-    private SongListFragment songListFragment;
+    // Fragment in Main Activity
+    private PlayFragment playFragment = new PlayFragment();
+    private FavouriteSongFragment favouriteSongFragment = new FavouriteSongFragment();
+    private SongListFragment songListFragment = new SongListFragment();
 
     // Fragment Show and Hide
     public static final int playF = 0;
-    public static final int loadF = 1;
     public static final int favF = 2;
     public static final int songF = 3;
 
-    // Value which can pass between Fragment
+    /* Method which can pass values between Fragment through Activity
     private String songPath;
-
-    public String getSongPath() {
-        return songPath;
-    }
-
-    public void setSongPath(String songPath) {
-        this.songPath = songPath;
-    }
+    public String getSongPath() { return songPath;}
+    public void setSongPath(String songPath) { this.songPath = songPath;}
+    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -65,33 +62,27 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
         toggle.syncState();
-
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        // Set Title Bar Name
         getSupportActionBar().setTitle("Music Player");
 
-        // Create All the Fragment and set Hide
-        playFragment = new PlayFragment();
-        loadSongFragment = new LoadSongFragment();
-        favouriteSongFragment = new FavouriteSongFragment();
-        songListFragment = new SongListFragment();
-        android.app.FragmentTransaction ft = fragmentManager.beginTransaction();
-        ft.add(R.id.content_frame, playFragment, "play");
-        ft.hide(playFragment);
-        ft.add(R.id.content_frame, loadSongFragment, "load");
-        ft.hide(loadSongFragment);
-        ft.add(R.id.content_frame, favouriteSongFragment, "fav");
-        ft.hide(favouriteSongFragment);
-        ft.add(R.id.content_frame, songListFragment, "song");
-        ft.show(songListFragment);
-        ft.commit();
+        // Notification Service
+        NotificationService notificationService = new NotificationService();
+        notificationService.customSimpleNotification(getApplicationContext());
+
+        // Get Permissions from the User
+        storageAccess();
+
+        // Application for passing PlayFragment and Notification
+        application = (MusicApplication) getApplication();
+        application.playFragment = this.playFragment;
     }
 
     @Override
@@ -122,7 +113,6 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.action_settings) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
@@ -140,10 +130,7 @@ public class MainActivity extends AppCompatActivity
             // Handle the Now Playing song action
             showFragment(0);
         }
-        if (id == R.id.nav_loadMusic) {
-            // Handle the load music action
-           showFragment(1);
-        }
+
         if (id == R.id.nav_songList) {
             // Handle the Song List action
             showFragment(3);
@@ -153,36 +140,45 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
-    // When Click the Navigation, show the corresponding Fragment
+    // When Click the Navigation Item, show the corresponding Fragment
     public void showFragment(int index) {
-
+        // Begin Fragment
         android.app.FragmentTransaction ft = fragmentManager.beginTransaction();
+        // Hide all Fragment
         hideFragment(ft);
-
         switch (index) {
             case playF:
-                    ft.show(playFragment);
-                break;
-            case loadF:
-                    ft.show(loadSongFragment);
+                // Get current Music Name
+                String title = playFragment.getSongName(playFragment.getCurrentMusicPath());
+                // Set action bar title for different layout - Now Playing
+                if (title == null) {
+                    setActionBarTitle("Now Playing");
+                } else {
+                    setActionBarTitle(playFragment.getSongName(playFragment.getCurrentMusicPath()));
+                }
+                // Show PlayFragment
+                ft.show(playFragment);
                 break;
             case favF:
-                    ft.show(favouriteSongFragment);
+                // Set action bar title for different layout - Favourite Song
+                setActionBarTitle("Favourite Song");
+                // Show FavFragment
+                ft.show(favouriteSongFragment);
                 break;
             case songF:
-                    ft.show(songListFragment);
+                // Set action bar title for different layout - Song List
+                setActionBarTitle("Song List");
+                // Show SongListFragment
+                ft.show(songListFragment);
                 break;
         }
         ft.commit();
     }
 
-    // Hide Fragment
+    // Hide All Fragment
     public void hideFragment(android.app.FragmentTransaction ft){
         if (playFragment != null){
             ft.hide(playFragment);
-        }
-        if (loadSongFragment != null) {
-            ft.hide(loadSongFragment);
         }
         if (songListFragment != null) {
             ft.hide(songListFragment);
@@ -190,6 +186,11 @@ public class MainActivity extends AppCompatActivity
         if (favouriteSongFragment != null) {
             ft.hide(favouriteSongFragment);
         }
+    }
+
+    // Set Title For Action Bar
+    public void setActionBarTitle(String title){
+        getSupportActionBar().setTitle(title);
     }
 
 
@@ -209,12 +210,12 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onPermissionsGranted(int requestCode, List<String> perms) {
-        Log.d("PlayFragment", "onPermissionsGranted:" + requestCode + ":" + perms.size());
+        Log.d("LyricFragment", "onPermissionsGranted:" + requestCode + ":" + perms.size());
     }
 
     @Override
     public void onPermissionsDenied(int requestCode, List<String> perms) {
-        Log.d("PlayFragment", "onPermissionsDenied:" + requestCode + ":" + perms.size());
+        Log.d("LyricFragment", "onPermissionsDenied:" + requestCode + ":" + perms.size());
     }
 
     // Declare method which outlines required permissions to read file from SdCard
@@ -230,6 +231,19 @@ public class MainActivity extends AppCompatActivity
         if (EasyPermissions.hasPermissions(this, permissions)) {
             // We have permission...
             // Create an intent to capture picture and return the result back to the application
+            // Create All the Fragment and set Hide
+            android.app.FragmentTransaction ft = fragmentManager.beginTransaction();
+            // Add tag Play to playFragment
+            ft.add(R.id.content_frame, playFragment, "play");
+            ft.hide(playFragment);
+            // Add tag fav to FavFragment
+            ft.add(R.id.content_frame, favouriteSongFragment, "fav");
+            ft.hide(favouriteSongFragment);
+            // Add tag Song to songListFragment
+            ft.add(R.id.content_frame, songListFragment, "song");
+            ft.show(songListFragment);
+            ft.commit();
+
         } else {
             // Ask for declared permissions
             EasyPermissions.requestPermissions(this,
@@ -237,5 +251,29 @@ public class MainActivity extends AppCompatActivity
                     REQ_READ_STORAGE_PERMISSION,
                     permissions);
         }
+    }
+
+    public PlayFragment getPlayFragment() {
+        return playFragment;
+    }
+
+    public void setPlayFragment(PlayFragment playFragment) {
+        this.playFragment = playFragment;
+    }
+
+    public FavouriteSongFragment getFavouriteSongFragment() {
+        return favouriteSongFragment;
+    }
+
+    public void setFavouriteSongFragment(FavouriteSongFragment favouriteSongFragment) {
+        this.favouriteSongFragment = favouriteSongFragment;
+    }
+
+    public SongListFragment getSongListFragment() {
+        return songListFragment;
+    }
+
+    public void setSongListFragment(SongListFragment songListFragment) {
+        this.songListFragment = songListFragment;
     }
 }

@@ -19,14 +19,18 @@ public class Music implements Parcelable{
     public static final String COLUMN_ID = "_id";
     public static final String COLUMN_PATH = "path";
     public static final String COLUMN_NAME = "name";
+    public static final String COLUMN_FAV = "favourite";
 
     // Table create Statement
     public static final String CREATE_STATEMENT =
             "CREATE TABLE " + TABLE_NAME + "(" +
                     COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
-                    COLUMN_PATH + " TEXT NOT NULL," +
-                    COLUMN_NAME + " TEXT NOT NULL" +
+                    COLUMN_PATH + " TEXT NOT NULL, " +
+                    COLUMN_NAME + " TEXT NOT NULL, " +
+                    COLUMN_FAV + " INTEGER NOT NULL" +
                     ")";
+
+    // Constructor
     public Music(long id, String musicPath, String musicTitle, boolean isLike) {
         this._id = id;
         this.musicPath = musicPath;
@@ -34,6 +38,9 @@ public class Music implements Parcelable{
         this.isLike = isLike;
     }
 
+    /*
+    All Getter And Setter
+    */
     public boolean isLike() {
         return isLike;
     }
